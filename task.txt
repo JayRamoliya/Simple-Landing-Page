@@ -1,0 +1,43 @@
+video link -> https://www.youtube.com/watch?v=W7up-w1QYpw&list=PLPppPPmk0i3j_DW1T-UbryDVhBDgaAfEp&index=3
+
+1. install react -> https://react.dev/learn/start-a-new-react-project (full stack project mate not for frontend part)
+
+2. install react with vite -> https://vitejs.dev/guide/ (vite is for frontend part,
+first install node js and than react)
+
+    cmd: npm create vite@latest
+         cd Project-1
+         npm install
+         npm run dev
+
+3. about main.jsx in react
+
+4. .gitignore file 
+
+5. package.json
+
+6. how to install node package 
+    cmd: npm i 
+         npm install package-name
+
+7. how to start react project (clene css file, remove un use file)
+    cmd: npm run dev
+
+8. write a first program (Hello World)
+
+9. understanding react components (first remove app.jsx component, re create App.jsx file, create a function, export component, import in main.jsx)
+
+10. create a nav component (emmet setting for react)
+
+11. how to add fonts in react project
+
+12. write a css for nav
+
+13. Refactoring and making Navigation component (create a folder components, inside a nav.jsx file)
+
+14. Hero Sections (hero.jsx file)
+
+
+summary:-   create components
+            add fonts in react
+            
